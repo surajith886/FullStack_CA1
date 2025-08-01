@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.d1{
+    width: 100%;
+    height: 100vh;
+}
+
+.first{
+    display: flex;
+    width: 100%;
+    height: 10%;
+    background-color: violet;
+}
+
+.f-left{
+    height: 100%;
+    width: 30%;
+    background-color: green;
+}
+.f-right{
+    height: 100%;
+    width: 70%;
+    background-color: olive;
+}
+
+.second{
+    padding: 150px;
+    width: 100%;
+    height: 50%%;
+    background-color: red;
+}
+
+
+
+.third{
+    width: 100%;
+    height: 20%;
+    background-color: yellow;
+
+}
+
+.four{
+    width: 100%;
+    height: 10%;
+    background-color: blue;
+}
+
